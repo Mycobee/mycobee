@@ -4,7 +4,7 @@ My name is Rob. I strive to light up the world and people's lives with computers
 
 I plan to build this out more in the future, but for now, I build FOSS tools, work as an SRE at [Doximity, Inc.](https://github.com/doximity), help small organizations and non-profits get firm tech footing via [Ouzel Software](https://ouzelsoftware.com], climb mountains, and sing songs.
 
-I love Ruby, Linux, and Kindness ❤️
+I love Ruby, Linux, and kindness ❤️
 <!--
 **Mycobee/mycobee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
