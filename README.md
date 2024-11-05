@@ -6,6 +6,10 @@ I plan to build this out more in the future, but for now, I build FOSS tools, wo
 
 I enjoy Ruby, Linux, and kindness ❤️
 
+A few of open source projects I have contributed to:
+- Whonix (`derivative-maker` automated build pipeline, `package-parser`, and Phabricator Migration)
+- [PingPie](https://github.com/Mycobee/pingpie) (My tiny simple uptime monitoring tool for small projects, non-profits, and hobbyists)
+- Mattermost (Lifecycle component upgrades && Cypress tests)
 <!--
 **Mycobee/mycobee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
