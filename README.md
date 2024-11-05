@@ -2,7 +2,7 @@
 
 My name is Rob (he/him). I strive to light up the world and people's lives with computers. I am care deeply about privacy, freedom, equity, and the environment.
 
-I plan to build this out more in the future, but for now, I build FOSS tools, work as an SRE at [Doximity, Inc.](https://github.com/doximity), help small organizations and non-profits succeed digitally via [Ouzel Software](https://ouzelsoftware.com), climb mountains, and sing songs.
+I plan to iron this README out more in the future. But for now...I build FOSS tools, work as an SRE at [Doximity, Inc.](https://github.com/doximity), help small organizations and non-profits succeed digitally via [Ouzel Software](https://ouzelsoftware.com), climb mountains, and sing songs.
 
 I enjoy Ruby, Linux, and kindness ❤️
 
