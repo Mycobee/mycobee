@@ -9,7 +9,7 @@ I enjoy Ruby, Linux, and kindness ❤️
 #### Open Source Contributions
 - [Whonix](https://whonix.org) (`derivative-maker` automated build pipeline, `package-parser`, and Phabricator Migration)
 - [PingPie](https://github.com/Mycobee/pingpie) (My tiny simple uptime monitoring tool for small projects, non-profits, and hobbyists)
-- [Kamabian](https://github.com/Mycobee/kamabian) (A tool for configuring a debian/ubuntu VM for Kamal, with sane defaults and security in mind)
+- [Kamabian](https://github.com/Mycobee/kamabian) (A tool for configuring a Debian/Ubuntu VM for Kamal, with sane defaults and security in mind)
 - [Mattermost](https://mattermost.com) (Lifecycle component upgrades && Cypress tests)
 <!--
 **Mycobee/mycobee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
