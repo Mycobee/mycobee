@@ -6,7 +6,7 @@ I plan to iron this README out more in the future. But for now...I build FOSS to
 
 I enjoy Ruby, Linux, and kindness ❤️
 
-A few of open source projects I have contributed to:
+#### Open Source Contributions
 - [Whonix](https://whonix.org) (`derivative-maker` automated build pipeline, `package-parser`, and Phabricator Migration)
 - [PingPie](https://github.com/Mycobee/pingpie) (My tiny simple uptime monitoring tool for small projects, non-profits, and hobbyists)
 - [Kamabian](https://github.com/Mycobee/kamabian) (A tool for configuring a debian/ubuntu VM for Kamal, with sane defaults and security in mind)
