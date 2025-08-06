@@ -2,7 +2,7 @@
 
 My name is Rob (he/him). I strive to light up the world and people's lives with computers. I care deeply about privacy, freedom, equity, and the environment.
 
-I plan to iron this README out more in the future. But for now...I build FOSS tools, work as an SRE at [Doximity](https://github.com/doximity), help small organizations and non-profits succeed digitally, climb mountains, and sing songs.
+I plan to iron this README out more in the future. But for now...I build FOSS tools and work as an SRE at [Doximity](https://github.com/doximity), help small organizations and non-profits succeed digitally, climb mountains, and sing songs.
 
 I enjoy Ruby, Linux, and kindness ❤️
 
